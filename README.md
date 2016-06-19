@@ -12,6 +12,6 @@
 
 ![layout.jpg](https://raw.githubusercontent.com/hggh/teelicht/master/pics/layout.png)
 
-## fertite Lampe
+## fertiges Teelicht
 
 ![teelicht.jpg](https://raw.githubusercontent.com/hggh/teelicht/master/pics/teelicht.png)
